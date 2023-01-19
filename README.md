@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Almiramahsa
-- 👀 I'm interested in web programming especially front-end things
-- 🌱 I’m currently learning Javascript
+- 👀 I am a software engineer focused on frontend development
+- 🌱 Currently live in Palu, Central Sulawesi
 - 📫 How to reach me go follow @almiramahsaa on instagram
 
 <!---
