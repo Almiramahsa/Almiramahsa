@@ -28,14 +28,11 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/> 
   </a> 
-  <a href="https://leafletjs.com/" target="_blank" rel="noreferrer"> 
-<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="vite"
+ 
+[![Vite.dev Icon](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/> 
   </a> 
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> 
@@ -46,6 +43,7 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra"/> 
   </a> 
+ 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> 
   </a> 
@@ -61,12 +59,8 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> 
   </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> 
-  </a> 
-     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgree"/> 
-  </a> 
+<img src="https://camo.githubusercontent.com/1a8472d37458cb6e12c17497d95f7752b7e63d0b60f95c507863efca493a04d3/68747470733a2f2f7261776769742e636f6d2f4c6561666c65742f4c6561666c65742f6d61737465722f7372632f696d616765732f6c6f676f2e737667" alt="Leaflet Icon" width="100">
+
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/> 
   </a> 
