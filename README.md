@@ -7,9 +7,7 @@
 <div align="center">
  <h3>:call_me_hand: How to reach me:</h3>
 
-<a href="https://www.instagram.com/almiramahsaa/" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://github.com/Almiramahsa" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
